@@ -12,6 +12,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <receiver android:name=".RemoteControllerClient">
+            <action android:name="android.intent.action.MEDIA_BUTTON" />
+        </receiver>
     </application>
 
 </manifest>

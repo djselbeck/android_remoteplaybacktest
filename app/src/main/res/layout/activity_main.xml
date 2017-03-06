@@ -18,4 +18,12 @@
         android:text="Stop remote session"
         android:layout_marginTop="8dp"/>
 
+    <TextView
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:ellipsize="start"
+        android:text="Alternating click on start stop and check if mediasessions remain in the expanded volume control." />
+
 </LinearLayout>

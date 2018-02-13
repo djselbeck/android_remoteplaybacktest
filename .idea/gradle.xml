@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="/mnt/ssd_storage/hendrik/Entwicklung/sources/RemotePlaybackTest" />
-            <option value="/mnt/ssd_storage/hendrik/Entwicklung/sources/RemotePlaybackTest/app" />
+            <option value="/mnt/laptop-daten/shared_space/hendrik/Entwicklung/sources/android_remoteplaybacktest" />
+            <option value="/mnt/laptop-daten/shared_space/hendrik/Entwicklung/sources/android_remoteplaybacktest/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

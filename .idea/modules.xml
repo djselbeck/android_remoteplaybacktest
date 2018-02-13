@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file:///mnt/ssd_storage/hendrik/Entwicklung/sources/RemotePlaybackTest/RemotePlaybackTest.iml" filepath="/mnt/ssd_storage/hendrik/Entwicklung/sources/RemotePlaybackTest/RemotePlaybackTest.iml" />
+      <module fileurl="file:///mnt/laptop-daten/shared_space/hendrik/Entwicklung/sources/android_remoteplaybacktest/android_remoteplaybacktest.iml" filepath="/mnt/laptop-daten/shared_space/hendrik/Entwicklung/sources/android_remoteplaybacktest/android_remoteplaybacktest.iml" />
+      <module fileurl="file:///mnt/laptop-daten/shared_space/hendrik/Entwicklung/sources/android_remoteplaybacktest/app/app.iml" filepath="/mnt/laptop-daten/shared_space/hendrik/Entwicklung/sources/android_remoteplaybacktest/app/app.iml" />
       <module fileurl="file:///mnt/ssd_storage/hendrik/Entwicklung/sources/RemotePlaybackTest/app/app.iml" filepath="/mnt/ssd_storage/hendrik/Entwicklung/sources/RemotePlaybackTest/app/app.iml" />
     </modules>
   </component>
